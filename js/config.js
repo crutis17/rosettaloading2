@@ -23,9 +23,8 @@ Config.serverImage = "logo1.jpg";
 // Song playlist
 // only use .ogg files!
 // put songs on the songs folder, then add them here
-Config.playlist = [
-	{url: "nopass.ogg", name: "The Enemy will not pass"}
-];
+//Config.playlist = [
+//];
 
 // Songs volume
 // from 0 to 1
